@@ -1,0 +1,6 @@
+.header {
+  width: 100%;
+  background: var(--pale-teal);
+  height: 80px;
+  margin: 0 0 20px 0;
+}

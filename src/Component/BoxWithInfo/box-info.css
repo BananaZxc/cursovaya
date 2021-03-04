@@ -1,0 +1,12 @@
+.box-with-info {
+  border-radius: 34px;
+  border: solid 1px var(--warm-grey);
+  padding: 25px 50px;
+  background: var(--white);
+}
+
+.box-with-info__title {
+  font-size: 20px;
+  color: var(--black);
+  text-align: left;
+}
